@@ -21,6 +21,7 @@ body {
 }
 
 /* Blocks */
+@import "blocks/page/page.scss";
 @import "blocks/header/header.scss";
 @import "blocks/sidebar/sidebar.scss";
 @import "blocks/main/main.scss";
