@@ -11,6 +11,7 @@ body {
     "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.4rem;
+  line-height: 1.5;
   color: $white;
 }
 
@@ -26,3 +27,6 @@ body {
 @import "blocks/sidebar/sidebar.scss";
 @import "blocks/main/main.scss";
 @import "blocks/container/container.scss";
+@import "blocks/profile/profile.scss";
+@import "blocks/social/social.scss";
+@import "blocks/btn/btn.scss";

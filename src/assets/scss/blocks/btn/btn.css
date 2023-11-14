@@ -1,0 +1,30 @@
+.btn {
+  display: inline-block;
+  vertical-align: top;
+  padding: 1.12em 2.1em;
+  background: #121212;
+  border: none;
+  cursor: pointer;
+  border-radius: 3em;
+  font-family: inherit;
+  font-size: 1.2rem;
+  line-height: 1.1;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color 0.2s linear;
+}
+.btn--red {
+  background-color: #ed3024;
+  box-shadow: 0 7px 17px -10px rgba(237, 48, 36, 0.35);
+}
+.btn--red:hover {
+  background-color: #e51f13;
+}
+.btn--blue {
+  background-color: #3137c9;
+  box-shadow: 0 7px 17px -10px rgba(49, 55, 201, 0.35);
+}
+.btn--blue:hover {
+  background-color: #2c31b4;
+}/*# sourceMappingURL=btn.css.map */
