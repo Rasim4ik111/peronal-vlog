@@ -24,9 +24,12 @@ body {
 /* Blocks */
 @import "blocks/page/page.scss";
 @import "blocks/header/header.scss";
+@import "blocks/nav/nav.scss";
+@import "blocks/subnav/subnav.scss";
+@import "blocks/search/search.scss";
 @import "blocks/sidebar/sidebar.scss";
-@import "blocks/main/main.scss";
-@import "blocks/container/container.scss";
 @import "blocks/profile/profile.scss";
 @import "blocks/social/social.scss";
+@import "blocks/main/main.scss";
+@import "blocks/container/container.scss";
 @import "blocks/btn/btn.scss";

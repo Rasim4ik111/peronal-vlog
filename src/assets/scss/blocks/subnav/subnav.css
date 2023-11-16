@@ -1,0 +1,19 @@
+.subnav {
+  display: none;
+  width: 16.5rem;
+  background-color: #3137c9;
+  position: absolute;
+  top: 100%;
+  left: 0%;
+}
+
+.subnav__link {
+  display: block;
+  padding: 0.45rem 1.2rem;
+  font-size: 1.2rem;
+  color: #fff;
+  text-decoration: none;
+}
+.subnav__link:hover {
+  background-color: #2c31b4;
+}/*# sourceMappingURL=subnav.css.map */
